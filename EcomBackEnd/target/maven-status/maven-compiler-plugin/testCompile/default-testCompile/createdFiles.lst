@@ -1,0 +1,5 @@
+com\niit\backend\test\ProductTestCase.class
+com\niit\backend\test\CategoryTestCase.class
+com\niit\backend\test\UserTestCase.class
+com\niit\backend\test\CartLineTestCase.class
+com\niit\EcomBackEnd\AppTest.class
